@@ -1,5 +1,7 @@
 <?php
 
+namespace Creational\AbstractFactory;
+
 /**
  * The Abstract Factory interface declares creation method
  * for each distinct product type.
